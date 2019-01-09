@@ -1,6 +1,6 @@
 {
-	"name": "miniprogram-recycle-view",
-	"version": "0.0.7",
+	"name": "miniprogram-recycle-view-latest",
+	"version": "0.0.8",
 	"description": "miniprogram custom component",
 	"main": "miniprogram_dist/index.js",
 	"scripts": {
@@ -18,9 +18,9 @@
 	"miniprogram": "miniprogram_dist",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/wechat-miniprogram/recycle-view.git"
+		"url": "https://github.com/ccckblaze/recycle-view.git"
 	},
-	"author": "wechat-miniprogram",
+	"author": "ccckblaze",
 	"license": "MIT",
 	"devDependencies": {
 		"babel-core": "^6.26.3",
