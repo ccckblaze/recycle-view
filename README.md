@@ -5,8 +5,8 @@
 > 使用此组件需要依赖小程序基础库 2.2.2 版本，同时依赖开发者工具的 npm 构建。具体详情可查阅[官方 npm 文档](https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html)。
 
 
-## 使用
-npm install miniprogram-recycle-view-latest --production
+## 使用方法
+npm install miniprogram-recycle-view-latest --production --save
 
 ## 背景
 
@@ -52,7 +52,7 @@ npm install miniprogram-recycle-view-latest --production
 1. 安装组件
 
 ```
-npm install --save miniprogram-recycle-view
+npm install miniprogram-recycle-view-latest --save --production 
 ```
 
 2. 在页面的 json 配置文件中添加 recycle-view 和 recycle-item 自定义组件的配置
