@@ -60,8 +60,8 @@ npm install miniprogram-recycle-view-latest --save --production
    ```json
    {
      "usingComponents": {
-       "recycle-view": "miniprogram-recycle-view/recycle-view",
-       "recycle-item": "miniprogram-recycle-view/recycle-item"
+       "recycle-view": "miniprogram-recycle-view-latest/recycle-view",
+       "recycle-item": "miniprogram-recycle-view-latest/recycle-item"
      }
    }
    ```
@@ -118,7 +118,7 @@ npm install miniprogram-recycle-view-latest --save --production
 4. 页面 JS 管理 recycle-view 的数据
 
    ```javascript
-   const createRecycleContext = require('miniprogram-recycle-view')
+   const createRecycleContext = require('miniprogram-recycle-view-latest')
    Page({
        onReady: function() {
            var ctx = createRecycleContext({
