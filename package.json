@@ -1,6 +1,6 @@
 {
 	"name": "miniprogram-recycle-view-latest",
-	"version": "0.0.11",
+	"version": "0.0.12",
 	"description": "miniprogram custom component",
 	"main": "miniprogram_dist/index.js",
 	"scripts": {

@@ -1,8 +1,8 @@
 /* components/recycle-item/recycle-item.wxss */
 :host {
   display: inline-block;
+  width:100%;
 }
 .wx-recycle-item {
   height: 100%;
-  width:100%;
 }
